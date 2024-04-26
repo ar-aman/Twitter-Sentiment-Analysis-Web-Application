@@ -5,7 +5,6 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer # reduce word to it's root word
 import streamlit as st 
-from textblob import TextBlob
 import pickle
 import joblib
 
